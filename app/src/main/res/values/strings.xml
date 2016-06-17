@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Gibbr Fill</string>
+    <string name="action_settings">Settings</string>
+    <string name="get_started">Get Started!</string>
+    <string name="gibbr_game_description">Welcome to Gibbr Fill! I will ask to you fill in words to complete a story. You won\'t be able to see the whole story until you are done filling in all the missing words. That\'s part of the fun. Click below to get started. </string>
+    <string name="fill_story">Fill in the words to complete the story!</string>
+    <string name="words_left">%d word(s) left</string>
+    <string name="story_title">Your Gibbr fill story!</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="enter">Enter </string>
+
+</resources>
